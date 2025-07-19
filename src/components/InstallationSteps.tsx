@@ -28,7 +28,7 @@ const InstallationSteps = () => (
 				>
 					Quick Setup
 				</h2>
-				<p className="text-xl text-gray-300">
+				<p className="text-lg md:text-xl  text-gray-300">
 					Three commands to rule them all
 				</p>
 			</header>
@@ -42,7 +42,7 @@ const InstallationSteps = () => (
 			</ol>
 
 			<div className="mt-12 text-center">
-				<p className="text-gray-300 text-lg">
+				<p className="text-gray-300 text-base md:text-lg">
 					That's it! Your modern React app is ready to go. 🚀
 				</p>
 			</div>

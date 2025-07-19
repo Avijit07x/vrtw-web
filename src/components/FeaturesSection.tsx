@@ -33,7 +33,7 @@ const FeaturesSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">
             Everything You Need
           </h2>
-          <p className="text-xl text-gray-300">
+          <p className="text-lg md:text-xl text-gray-300">
             Pre-configured with the best modern tools
           </p>
         </div>
