@@ -1,4 +1,3 @@
-// components/FloatingParticles.tsx
 const FloatingParticles = () => {
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">

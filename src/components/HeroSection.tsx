@@ -1,4 +1,3 @@
-// components/HeroSection.tsx
 import { Zap } from "lucide-react";
 import CommandDemo from "./CommandDemo";
 import FloatingParticles from "./FloatingParticles";

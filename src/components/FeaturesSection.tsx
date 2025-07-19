@@ -1,4 +1,3 @@
-// components/FeaturesSection.tsx
 import { Code, Rocket, Zap } from "lucide-react";
 import FeatureCard from "./FeatureCard";
 

@@ -1,4 +1,3 @@
-// components/CommandDemo.tsx
 import { Check, Copy } from "lucide-react";
 import { useState } from "react";
 

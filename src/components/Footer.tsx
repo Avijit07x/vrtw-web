@@ -1,9 +1,8 @@
-// components/Footer.tsx
 import { Terminal } from "lucide-react";
 
 const Footer = () => {
   return (
-    <footer className="px-6 py-12 border-t border-slate-700">
+    <footer className="px-6 py-9 border-t border-slate-700">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center space-x-2 mb-4 md:mb-0">
