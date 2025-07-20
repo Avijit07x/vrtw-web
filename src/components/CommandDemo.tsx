@@ -15,7 +15,7 @@ const CommandDemo = ({ command = "npx create-vrtw" }: CommandDemoProps) => {
 	};
 
 	return (
-		<div className="bg-slate-800/50 backdrop-blur-sm border border-slate-700 rounded-2xl p-6 mb-12 max-w-2xl mx-auto">
+		<div className="bg-[#1a1032] backdrop-blur-sm border border-slate-700 rounded-2xl p-6 mb-12 max-w-2xl mx-auto">
 			<div className="flex items-center justify-between mb-4">
 				<div className="flex items-center space-x-2">
 					<div className="w-3 h-3 bg-red-500 rounded-full"></div>
