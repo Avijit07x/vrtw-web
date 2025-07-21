@@ -22,7 +22,7 @@ const Navigation = () => {
 		<nav className="relative z-10 px-6 py-4">
 			<div className="max-w-7xl mx-auto flex items-center justify-between">
 				<div className="flex items-center space-x-2">
-					<div className="logo w-8 h-8 bg-gradient-to-r from-purple-400 to-pink-400 rounded-lg flex items-center justify-center opacity-0 translate-y-3">
+					<div className="logo w-8 h-8 bg-gradient-to-r from-[#805ccd] to-[#4a5dd7] rounded-lg flex items-center justify-center opacity-0 translate-y-3">
 						<Terminal className="w-5 h-5 text-white" />
 					</div>
 					<span className="logo-text text-xl font-bold text-white">

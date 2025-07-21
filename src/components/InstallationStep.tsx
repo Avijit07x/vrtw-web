@@ -11,7 +11,7 @@ const InstallationStep = ({
 }: InstallationStepProps) => {
 	return (
 		<div className="flex items-start space-x-6">
-			<div className="w-10 h-10 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full flex items-center justify-center text-white font-bold flex-shrink-0">
+			<div className="w-10 h-10 bg-gradient-to-r from-[#805ccd] to-[#394490] rounded-full flex items-center justify-center text-white font-bold flex-shrink-0">
 				{number}
 			</div>
 			<div className="flex-1">

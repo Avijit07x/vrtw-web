@@ -14,7 +14,7 @@ const FeatureCard = ({
 	gradient,
 }: FeatureCardProps) => {
 	return (
-		<div className="bg-[#1a1032] backdrop-blur-sm border border-slate-700 rounded-2xl p-8 hover:border-purple-500/50 transition-all">
+		<div className="bg-[#1a1032] backdrop-blur-sm border border-[#352a6e] rounded-2xl p-8 hover:border-[#4f4f87] shadow-blue-700 transition-all ">
 			<div
 				className={`w-12 h-12 bg-gradient-to-r ${gradient} rounded-xl flex items-center justify-center mb-6`}
 			>

@@ -2,11 +2,11 @@ import { Terminal } from "lucide-react";
 
 const Footer = () => {
 	return (
-		<footer className="px-6 py-9 border-t border-slate-700">
+		<footer className="px-6 py-9 border-t border-[#333247]">
 			<div className="max-w-7xl mx-auto">
 				<div className="flex flex-col md:flex-row justify-between items-center">
 					<div className="flex items-center space-x-2 mb-4 md:mb-0">
-						<div className="w-8 h-8 bg-gradient-to-r from-purple-400 to-pink-400 rounded-lg flex items-center justify-center">
+						<div className="w-8 h-8 bg-gradient-to-r from-[#805ccd] to-[#4a5dd7]  rounded-lg flex items-center justify-center">
 							<Terminal className="w-5 h-5 text-white" />
 						</div>
 						<span className="text-xl font-bold text-white">
@@ -37,7 +37,7 @@ const Footer = () => {
 						</a>
 					</div>
 				</div>
-				<div className="mt-8 pt-8 border-t border-slate-700 text-center text-gray-400 text-base">
+				<div className="mt-8 pt-8 border-t border-[#333247] text-center text-gray-400 text-base">
 					<p>
 						&copy; 2025 create-vrtw. Built with ❤️ for developers.
 					</p>

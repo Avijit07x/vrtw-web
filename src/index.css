@@ -5,6 +5,7 @@
 @layer {
 	body {
 		font-family: "Ubuntu", sans-serif;
+		color:#f3efef
 	}
 	button {
 		@apply cursor-pointer;

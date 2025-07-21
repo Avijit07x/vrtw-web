@@ -30,14 +30,14 @@ const HeroSection = () => {
   return (
     <section className="relative px-6 py-20 pt-10 text-center">
       <div className="max-w-4xl mx-auto">
-        <div className="inline-flex items-center max-md:text-xs space-x-2 bg-[#59387d] text-gray-200 px-4 py-2 rounded-full text-sm mb-8 border border-purple-500/30">
+        <div className="inline-flex items-center max-md:text-xs space-x-2 bg-[#38398e] text-gray-200 px-4 py-2 rounded-full text-sm mb-8 border border-purple-500/30">
           <Zap className="w-4 h-4" />
           <span>Lightning fast project setup</span>
         </div>
 
-        <h1 id="text01" className="text-4xl md:text-7xl font-semibold text-white mb-6 leading-tight md:leading-20">
+        <h1 id="text01" className="text-4xl md:text-7xl font-semibold text-[#f3efef] mb-6 leading-tight md:leading-20">
           Setup Modern React
-          <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+          <span className="bg-gradient-to-r from-[#805ccd] to-[#4a5dd7] bg-clip-text text-transparent">
             {" "}
             Projects
           </span>
@@ -59,7 +59,7 @@ const HeroSection = () => {
             target="_blank"
             className="max-sm:w-full"
           >
-            <button  className="main-button bg-gradient-to-r from-[#715c9b] to-[#5366dd] text-white max-sm:w-full px-8 py-3 rounded-xl font-semibold md:text-lg  transition-all transform hover:scale-105 opacity-0 translate-y-16">
+            <button  className="main-button bg-gradient-to-r from-[#805ccd] to-[#394490] text-white max-sm:w-full px-8 py-3 rounded-xl font-semibold md:text-lg  transition-all transform hover:scale-105 opacity-0 translate-y-16">
               Get Started
             </button>
           </a>

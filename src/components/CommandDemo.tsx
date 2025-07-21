@@ -37,7 +37,7 @@ const CommandDemo = ({ command = "npx create-vrtw" }: CommandDemoProps) => {
 				</button>
 			</div>
 			<code className="text-green-400 mt-2 font-mono max-md:text-sm text-lg block">
-				$ {command}
+				${" "} {command}
 			</code>
 		</div>
 	);
