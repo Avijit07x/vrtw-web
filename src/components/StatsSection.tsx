@@ -30,7 +30,7 @@ const StatsSection = () => {
 						: downloads.toLocaleString()
 					: "...",
 			label: "Downloads",
-			iconColor: "text-purple-400",
+			iconColor: "text-[#4a5dd7]",
 		},
 		{
 			icon: Star,
