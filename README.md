@@ -28,7 +28,7 @@ create-vrtw
 
 ## 🔗 Live Site
 
-[👉 Visit the landing page here](https://your-website-url.com)
+[👉 Visit the landing page here](https://vrtw.vercel.app)
 
 <!-- ## 📸 Screenshots -->
 
