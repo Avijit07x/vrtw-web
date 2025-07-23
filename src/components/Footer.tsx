@@ -39,7 +39,7 @@ const Footer = () => {
 				</div>
 				<div className="mt-8 pt-8 border-t border-[#333247] text-center text-gray-400 text-base">
 					<p>
-						&copy; 2025 create-vrtw. <br className="md:hidden" /> Built with ❤️ for developers.
+						&copy; 2025 create-vrtw.
 					</p>
 				</div>
 			</div>
